@@ -1,0 +1,30 @@
+.extra{
+  display: flex;
+  width: 65%;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.all-check{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin: 5px 0;
+}
+.all-check input{
+  width: 22px;
+  height: 22px;
+}
+.all-check label{
+  font-size: 20px;
+  cursor: pointer;
+}
+.extra button{
+  padding: 10px 20px;
+  font-size: 14px;
+  border: none;
+  color: rgb(19, 141, 148);
+  border: 2px solid rgb(13, 178, 187);
+  border-radius: 10px;
+  background-color: #fff;
+}

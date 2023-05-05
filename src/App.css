@@ -1,0 +1,15 @@
+.app{
+  width: 700px;
+  margin: 40px auto;
+  background-color: rgb(23, 232, 243);
+  border-radius: 15px;
+  box-shadow: 20px 20px 20px #7b7777;
+  min-height: 20vh;
+  text-align: center;
+  padding: 20px 50px;
+  padding-bottom: 60px;
+}
+h1{
+  text-shadow: 2px 2px #837f7f;
+  font-size: 45px;
+}
